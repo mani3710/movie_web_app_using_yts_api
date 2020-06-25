@@ -1,0 +1,15 @@
+.dataContainer {
+    background-color: black;
+}
+
+.loaderStyle {
+    display: block;
+}
+
+.categoryStyle {
+    height: 100px;
+}
+
+.categoryStyle:hover() {
+    height: 150px;
+}
